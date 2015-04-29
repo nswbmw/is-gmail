@@ -1,0 +1,27 @@
+{
+  "name": "is-gmail",
+  "version": "1.0.0",
+  "description": "Check if an given email is gmail or GSuit email.",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "email",
+    "gmail",
+    "google",
+    "googlemail",
+    "mx",
+    "google apps"
+  ],
+  "dependencies": {
+    "check-email-valid": "1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^9.0.3"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nswbmw/is-gmail.git"
+  }
+}
