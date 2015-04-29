@@ -1,0 +1,27 @@
+{
+  "name": "is-gmail",
+  "version": "0.1.0",
+  "description": "Check if an given email is google apps email.",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha -t 20000 test.js"
+  },
+  "keywords": [
+    "email",
+    "gmail",
+    "google",
+    "googlemail",
+    "mx",
+    "google apps"
+  ],
+  "dependencies": {
+    "check-email-valid": "1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nswbmw/is-gmail.git"
+  }
+}
